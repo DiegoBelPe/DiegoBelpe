@@ -4,13 +4,15 @@
 
 Passionate about web development especially on the front end
 
-Skills: LARAVEL / PHP/ JS / HTML / CSS
+Skills: LARAVEL / PHP / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: dbeltranpereira@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DiegoBelPe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/diego-andrés-beltrán-pereira-b88a6a1ab/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DiegoBelPe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diego-andrés-beltrán-pereira-b88a6a1ab/)  
+
+
 
 
 
