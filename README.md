@@ -4,7 +4,7 @@
 
 Passionate about web development especially on the front end
 
-Skills: LARAVEL / REACT / JS / HTML / CSS
+Skills: LARAVEL / PHP/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: dbeltranpereira@gmail.com 
