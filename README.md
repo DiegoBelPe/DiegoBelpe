@@ -1,6 +1,6 @@
 ### Hola 👋, my name is Diego
 #### I am a front end web developer
-![I am a front end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!--![I am a front end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 Passionate about web development especially on the front end
 
