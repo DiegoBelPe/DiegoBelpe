@@ -9,7 +9,9 @@ Skills:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=blanco" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JS-F0db4f?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="typeScript" src="https://img.shields.io/badge/-TS-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="next" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-express-AFACAB?style=flat-square&logo=express&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
