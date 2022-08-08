@@ -24,6 +24,7 @@ Skills:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBelPe&theme=buefy&layout=compact" />
 </a>
 
+
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: dbeltranpereira@gmail.com 
 
