@@ -17,6 +17,13 @@ Skills:
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoBelPe&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBelPe&theme=buefy&layout=compact" />
+</a>
+
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: dbeltranpereira@gmail.com 
 
