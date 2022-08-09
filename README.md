@@ -1,6 +1,10 @@
-### Hi there 👋, my name is Diego
-#### I am a front end web developer
+
 <!--![I am a front end web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
+
+ <p align="center">
+  <a href="https://github.com/SuranSandeepa">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Itim&size=33&color=0000FF&center=true&vCenter=true&lines=Hi%2C+I'm+Diego+Beltran;Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
+  </p>
 
 What characterizes me is my great commitment and dedication to the proposed tasks, contributing significantly to work and personal development in the society that surrounds me, capable of providing solutions to all kinds of problems raised in the handling and manipulation of information by applying analysis, design and construction of computer solutions. In addition to being proactive and easy to learn quickly in the face of constant changes in technology.
 
