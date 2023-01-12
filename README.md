@@ -23,10 +23,10 @@ Skills:
 
 <br/>
 
-<a href="https://github.com/DiegoBelPe">
+<!-- <a href="https://github.com/DiegoBelPe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoBelPe&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoBelPe&theme=buefy&layout=compact" />
-</a>
+</a> -->
 
 
 - 🔭 I’m currently working on this page. 
